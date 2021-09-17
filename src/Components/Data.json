@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "name":"Sabo",
+        "tel":"0123456789",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Ace",
+        "tel":"0123456789",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Lyffy",
+        "tel":"0123456789",
+        "permission":1
+    },
+    {
+        "id":4,
+        "name":"Zoro",
+        "tel":"0123456789",
+        "permission":3
+    }, {
+        "id":5,
+        "name":"Sanji",
+        "tel":"0123456789",
+        "permission":3
+    }
+]
